@@ -52,12 +52,12 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
     }
 
     private void initial() {
-        modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"Kirish","Jahon adabiyotshunosligida badiiylik mezonlarining taraqqiyoti va izchil takomillashuvi badiiy tafakkurning tadrijiy rivoji  bilan uzviy bog‘liq bo‘lib...","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/kirish.pdf"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"Kirish","Jahon adabiyotshunosligida badiiylik mezonlarining taraqqiyoti va izchil takomillashuvi badiiy tafakkurning tadrijiy rivoji  bilan uzviy bog‘liq bo‘lib...","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/kirish.docx"));
         modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"I BOB. Adib hikoyalarida xarakter va milliy ruh","",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"II.BOB. Normurod Norqobil asarlarining o‘ziga xos jihatlari","",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"HULOSA","Xarakterlarni  individuallashtirishda obrazning tashqi ko‘rinish chizgilari, ya’ni portretga ham alohida ahamiyat berish Normurod Norqobilov...","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/ilovalar.pdf"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"HULOSA","Xarakterlarni  individuallashtirishda obrazning tashqi ko‘rinish chizgilari, ya’ni portretga ham alohida ahamiyat berish Normurod Norqobilov...","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/hulosa.docx"));
         modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"ADABIYOTLAR","Abdug‘afurov A. Qalb qa’ridagi qadriyatlar. – T.: O‘qituvchi, 1998. – 215 b.\n" +
-                "Adabiyot nazariyasi. Ikki tomlik. I tom (Adabiy asar). – T.: Fan, 1978. –  416 b.\n","https://github.com/asadbekakmedov2001/ustoziga/raw/master/app/src/main/assets/adabiyot.pdf"));
+                "Adabiyot nazariyasi. Ikki tomlik. I tom (Adabiy asar). – T.: Fan, 1978. –  416 b.\n","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/adabiyotlar.docx"));
 
 
     }
@@ -72,8 +72,7 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
     public void selectedUser(ModelRcycler modelRcycler) {
 
         if (modelRcycler.getLessonName().toLowerCase().startsWith("kirish") ||
-                modelRcycler.getLessonName().toLowerCase().startsWith("izohli") ||
-                modelRcycler.getLessonName().toLowerCase().startsWith("foydalanish") ||
+                modelRcycler.getLessonName().toLowerCase().startsWith("hulosa") ||
                 modelRcycler.getLessonName().toLowerCase().startsWith("adabiyot")
         ){
 //
