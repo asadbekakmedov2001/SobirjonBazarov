@@ -52,11 +52,11 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
     }
 
     private void initial() {
-        modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"Kirish","Jahon adabiyotshunosligida badiiylik mezonlarining taraqqiyoti va izchil takomillashuvi badiiy tafakkurning tadrijiy rivoji  bilan uzviy bog‘liq bo‘lib...","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/kirish.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"I BOB. Adib hikoyalarida xarakter va milliy ruh","",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"II.BOB. Normurod Norqobil asarlarining o‘ziga xos jihatlari","",""));
-        modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"HULOSA","Xarakterlarni  individuallashtirishda obrazning tashqi ko‘rinish chizgilari, ya’ni portretga ham alohida ahamiyat berish Normurod Norqobilov...","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/hulosa.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.auuuu,"ADABIYOTLAR","Abdug‘afurov A. Qalb qa’ridagi qadriyatlar. – T.: O‘qituvchi, 1998. – 215 b.\n" +
+        modelRcyclers.add(new ModelRcycler(R.drawable.kirish,"Kirish","Jahon adabiyotshunosligida badiiylik mezonlarining taraqqiyoti va izchil takomillashuvi badiiy tafakkurning tadrijiy rivoji  bilan uzviy bog‘liq bo‘lib...","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/kirish.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.bob_1,"I BOB. Adib hikoyalarida xarakter va milliy ruh","",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.bob_2,"II.BOB. Normurod Norqobil asarlarining o‘ziga xos jihatlari","",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.hulosa,"HULOSA","Xarakterlarni  individuallashtirishda obrazning tashqi ko‘rinish chizgilari, ya’ni portretga ham alohida ahamiyat berish Normurod Norqobilov...","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/hulosa.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.adabiyot,"ADABIYOTLAR","Abdug‘afurov A. Qalb qa’ridagi qadriyatlar. – T.: O‘qituvchi, 1998. – 215 b.\n" +
                 "Adabiyot nazariyasi. Ikki tomlik. I tom (Adabiy asar). – T.: Fan, 1978. –  416 b.\n","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/adabiyotlar.docx"));
 
 
