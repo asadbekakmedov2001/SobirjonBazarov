@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">N.Norqulov asari haqida</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">SOBIRJON BAZAROV</string>
+    <string name="nav_header_subtitle">Termiz Davlat Universiteti</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Asosiy qisim</string>
+    <string name="menu_gallery">Video darslar</string>
+    <string name="menu_slideshow">Muallif haqida</string>
+    <string name="search_view">Search view</string>
+    <string name="xumoyiddin_turayev">SOBIRJON BAZAROV </string>
+    <string name="xumoyiddinturayev">\@Ismail_Allakov</string>
+    <string name="termiz_davlat_universiteti">Termiz Davlat Universiteti</string>
+    <string name="muallif_name">SOBIRJON BAZAROV BEKTASHEVICH</string>
+    <string name="muallif_haqida">  Mazkur uslubiy qo‘llanmada  iste’dodli adib Normurod Norqobilov asarlari poetikasi, xususan, badiiy obrazlar olami, ularning tabiati, xarakter va ruhiyat birligi, adabiy makon va zamon, badiiy uslublari, yozuvchining poetik mahorati ochib berilgan. Shuningdek, Normurod Norqobilov yozgan badiiy asarlar misolida o‘zbek nasri badiiy tafakkuridagi yangilanishlar, badiiy asar poetikasidagi o‘ziga xos jihatlar tahlil qilingan.
+   Uslubiy qo‘llanma oliy ta’lim muassalari talabalari va o‘qituvchilari uchun mo‘ljallangan.
+</string>
+</resources>
